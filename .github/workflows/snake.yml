@@ -6,21 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-snake:
+  build:
+    name: Update Snake Animation
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Rhuann01
           outputs: |
             dist/github-contribution-snake.svg
             dist/github-contribution-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to Output Branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
