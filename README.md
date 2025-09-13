@@ -56,8 +56,6 @@
   </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Rhuann01/rhuann01/output/github-contribution-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rhuann01/Rhuann01/output/github-contribution-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rhuann01/Rhuann01/output/github-contribution-snake.svg">
