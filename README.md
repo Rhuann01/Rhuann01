@@ -1,13 +1,32 @@
-# 👋 Olá! Eu sou o Rhuann  
+# 👋 Hey! I'm Rhuann  
 
-- 🚀 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Gosto de aprender sobre **Web**, **C**, e projetos práticos  
-- 🎯 Objetivo: me tornar um dev full-stack  
+🚀 Aspiring Full-Stack Developer | 💻 Passionate about building real-world projects  
 
-## 📊 Estatísticas  
-![Rhuann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhuann01&show_icons=true&theme=radical)
+- 🎓 Currently studying **Analysis and Systems Development (ADS)**  
+- 🌱 Learning and practicing: **C#, PHP, Laravel, C, JavaScript, and React**  
+- 🎯 Goal: Becoming a skilled full-stack developer and growing in the tech industry  
+- ✨ Always open to new challenges and collaborations  
 
-## 🚀 Tecnologias
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+---
+
+## 🚀 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 GitHub Stats
+
+![Rhuann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhuann01&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuann01&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhuann2006@gmail.com)
