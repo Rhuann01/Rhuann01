@@ -7,23 +7,9 @@
 - 🎯 Goal: Becoming a skilled full-stack developer and growing in the tech industry  
 - ✨ Always open to new challenges and collaborations  
 
-
-
-
-          
-          
-          
-          
-          
-
 ---
 
 ## 📊 GitHub Stats
-
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhuann01&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuann01&layout=compact&theme=radical" alt="langs" height="160"/>
-</p>
 
 <div style="display: inline-block; vertical-align: middle;">
 
@@ -36,7 +22,24 @@
   <img align="center" alt="Rhuann-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </div>
 
+#
 
+
+
+
+
+<table width="100%" >
+  <tr>
+    <td width ="700vw" align ="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rhuann01&show_icons=true&theme=radical" alt="stats" height="160"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuann01&layout=compact&theme=radical" alt="langs" height="160"/>
+    </td>
+    <td  width ="300vw" align ="center" >
+      <img src="https://media1.tenor.com/m/4rfM1SpRJDYAAAAC/robin-robin-one-piece.gif" alt="GIF maneiro"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
