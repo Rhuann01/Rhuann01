@@ -30,12 +30,12 @@
 
 <table width="100%" >
   <tr>
-    <td width ="700vw" align ="center">
+    <td width ="600vw" align ="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Rhuann01&show_icons=true&theme=radical" alt="stats" height="160"/>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuann01&layout=compact&theme=radical" alt="langs" height="160"/>
     </td>
-    <td  width ="300vw" align ="center" >
+    <td  width ="400vw" align ="center" >
       <img src="https://media1.tenor.com/m/4rfM1SpRJDYAAAAC/robin-robin-one-piece.gif" alt="GIF maneiro"/>
     </td>
   </tr>
