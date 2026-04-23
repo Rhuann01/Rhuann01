@@ -4,11 +4,9 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=250&lines=Hi, i'm Rhuann;Full+Stack+Developer;" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+i'm+Rhuann;Full+Stack+Developer;Nice+to+meet+you;" alt="Texto Animado" />
+</p>
 
 ---
 
