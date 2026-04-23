@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./imgs/4.jpg" />
+  <img  src="./imgs/4.jpg"  />
 </div>
 
 ###
@@ -9,6 +9,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=250&lines=Hi, i'm Rhuann;Full+Stack+Developer;" alt="Typing SVG" />
   </a>
 </div>
+
+---
+
+#
 
 ## <p align="center"> About me </p>
 
@@ -72,7 +76,7 @@
 
 ## 📫 Let's Connect
 
-<p align="start" style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+<p align="center" style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/francisco-rhuann-837896300/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
