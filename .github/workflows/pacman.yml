@@ -1,14 +1,9 @@
-name: Generate pacman animation
+name: Generate Pac-Man Game
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
+  schedule:
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+  workflow_dispatch: # Pra tu rodar no clique quando quiser
 
 jobs:
   generate:
@@ -16,15 +11,13 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Gerar o Pac-Man SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      
+      - name: Empurrar pra branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
