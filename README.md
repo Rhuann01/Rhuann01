@@ -1,4 +1,6 @@
-<img src="./imgs/4.jpg" />
+<div align="center">
+  <img src="./imgs/4.jpg" />
+</div>
 
 ###
 
@@ -17,6 +19,7 @@
 <p align="center"> 🔧 Turning ideas into functional and impactful applications</p>
 
 ##
+
 ---
 
 #
