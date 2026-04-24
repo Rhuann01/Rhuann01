@@ -92,7 +92,7 @@
 ##
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rhuann01/Rhuann01/output/pacman-contribution-graph-dark.svg" alt="Pac-Man do Rhuann devorando os commits" />
+  <img src="https://raw.githubusercontent.com/Rhuann01/Rhuann01/output/pacman-contribution-graph-dark.svg" alt="Pac-Man devorando os commits" />
 </p>
 
 <!-- <picture>
