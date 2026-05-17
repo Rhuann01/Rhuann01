@@ -61,8 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhuann01&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak do Rhuann" />
       <br>
       <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuann01&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="Linguagens mais usadas do Rhuann" />
-</p>
+<img src="https://github-readme-stats-l4b0ijqwz-rhuanns-projects-1caf0552.vercel.app/api/top-langs/?username=Rhuann01&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&v=3" alt="Linguagens mais usadas Rhuann" /></p>
     </td>
     <td  width ="400vw" align ="center" >
       <img src="https://media1.tenor.com/m/4rfM1SpRJDYAAAAC/robin-robin-one-piece.gif" alt="GIF maneiro"/>
